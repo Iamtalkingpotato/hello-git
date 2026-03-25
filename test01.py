@@ -7,3 +7,5 @@ num01 = 10
 num02 = 20
 print(addNum(num01, num02))
 print("program End!!")
+print("Bye")
+print('main 브랜치에서 라인 추가 후 새로운 커밋 생성")
